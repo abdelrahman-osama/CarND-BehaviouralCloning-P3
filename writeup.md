@@ -1,11 +1,6 @@
 # **Behavioral Cloning** 
 
 
----
-
-**Behavioral Cloning Project**
-
-
 [//]: # (Image References)
 
 [image1]: ./examples/placeholder.png "Model Visualization"
